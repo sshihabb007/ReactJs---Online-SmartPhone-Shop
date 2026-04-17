@@ -1,6 +1,6 @@
 # ReactJs - Online SmartPhone Shop
 
-A full-stack, modern e-commerce platform rebuilt from the ground up using **React.js** and **Node.js (Express)**. Originally a legacy PHP/jQuery application, this project has been fully migrated to a robust, scalable architecture while retaining the original MySQL database schema. Built and maintained by **Mehedi Hasan Shihab**.
+A full-stack, modern e-commerce platform built from the ground up using **React.js** and **Node.js (Express)**. It features a robust, scalable architecture with a MySQL database. Built and maintained by **Mehedi Hasan Shihab**.
 
 ![SmartPhoneShop Preview](client/src/assets/hero.png)
 
@@ -37,7 +37,7 @@ Before running the project locally, ensure you have the following installed:
 2.  **Database Configuration:**
     *   Start Apache and MySQL via your XAMPP control panel.
     *   Open phpMyAdmin (`http://localhost/phpmyadmin/`) and create a database named `project`.
-    *   Import the SQL file from the original PHP project (if available) or ensure the tables (`user`, `brands`, `cart`, `categories`, `order`, `product`, `qnty`, `specification`) are set up correctly.
+    *   Import the SQL file to ensure the tables (`user`, `brands`, `cart`, `categories`, `order`, `product`, `qnty`, `specification`) are set up correctly.
 
 3.  **Install Backend Dependencies:**
     ```bash

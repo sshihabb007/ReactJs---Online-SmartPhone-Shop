@@ -61,7 +61,7 @@ const About = () => (
                 <h3 className="text-xl font-bold text-txt">About SmartPhoneShop</h3>
                 <p className="text-txt-dim leading-relaxed">
                     <strong className="text-txt">SmartPhoneShop</strong> is a full-stack e-commerce platform built and maintained by Mehedi Hasan Shihab.
-                    Originally developed using PHP, JavaScript, and jQuery, it has been modernized to use <strong className="text-txt">React.js</strong> on the frontend
+                    It is built using <strong className="text-txt">React.js</strong> on the frontend
                     and <strong className="text-txt">Node.js (Express)</strong> on the backend, with MySQL as the database.
                 </p>
                 <p className="text-txt-dim leading-relaxed">
